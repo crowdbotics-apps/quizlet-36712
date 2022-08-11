@@ -18,7 +18,6 @@
     "@reduxjs/toolkit": "^1.5.0",
     "@screens/advance-search": "file:./screens/advance-search/",
     "@screens/menu": "file:./screens/menu/",
-    "@screens/search-listing": "file:./screens/search-listing/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",

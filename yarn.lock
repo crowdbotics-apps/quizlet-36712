@@ -1236,10 +1236,7 @@
 "@screens/advance-search@file:./screens/advance-search":
   version "1.0.0"
 
-"@screens/menu@file:./screens/menu/":
-  version "1.0.0"
-
-"@screens/search-listing@file:./screens/search-listing":
+"@screens/menu@file:./screens/menu":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
